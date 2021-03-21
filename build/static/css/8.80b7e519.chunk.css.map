@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/visitorDetails/PetTab.css"],"names":[],"mappings":"AAAA,oBACE,iCAAkC,CAClC,UACF","file":"8.80b7e519.chunk.css","sourcesContent":[".petTab .active > div {\n  background-color: var(--c-primary);\n  color: white;\n}"]}
